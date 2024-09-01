@@ -1,0 +1,7 @@
+1)clone repository
+2)cd repository
+3)create file
+4)git add file
+5)git commit -m file
+6)git push -u origin main
+
